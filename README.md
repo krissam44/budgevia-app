@@ -25,6 +25,16 @@ Dans les [Releases](https://github.com/krissam44/budgevia-app/releases) :
 - **Windows** : `Installer-Budgevia-<version>.exe`, sans droits d'administrateur. Le runtime WebView2 est déjà présent sous Windows 11.
 - **Linux** (Ubuntu 24.04+, Debian 13+, Zorin OS 18+) : `Budgevia-linux-x64.tar.gz`, à extraire, puis `bash installer.sh` dans le dossier extrait.
 
+## Essayer avec la démonstration
+
+Envie de voir Budgevia à l'œuvre avant d'y mettre vos comptes ? Depuis la version 0.90.0, le raccourci **« Budgevia — démonstration »** du menu Démarrer (sous Linux : lancer Budgevia avec l'option `--demo`) ouvre les comptes de Paul et Jeanne Dupont, un couple de retraités inventé :
+
+- un compte joint, un compte courses avec une carte à débit différé, un Livret A et une assurance vie ;
+- leurs pensions, leurs prélèvements et quatorze mois de dépenses, déjà classés ;
+- le tableau de bord, les prévisions, le budget et tous les graphiques, prêts à explorer.
+
+La démonstration vit dans un **dossier à part** : vos propres données ne sont jamais ouvertes. Un bandeau « Démonstration — données fictives » le rappelle en permanence. Saisissez, importez, supprimez : elle repart neuve chaque jour, ou d'un clic dans les Paramètres.
+
 ## Faire un retour
 
 Un problème, une idée d'amélioration ?
